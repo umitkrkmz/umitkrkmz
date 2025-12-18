@@ -1,10 +1,10 @@
 # Hi there, I'm Ümit! 👋
 
-### 🔬 R&D Software Engineer | Algorithm Optimization & Backend Architecture
+### 🔬 R&D Software Engineer | High-Performance Computing (HPC) & Backend Architecture
 
-I am an R&D Software Engineer based in Ankara, passionate about **Algorithm Optimization** and **System Security**. I build high-performance applications that bridge the gap between Python's data capabilities and the .NET ecosystem.
+I am an R&D Software Engineer based in Ankara, specialized in **Hardware-Accelerated Cryptography** and **System Security**. I build research-grade applications that push the limits of .NET using **SIMD Intrinsics (AVX-512)** and bridge the gap between Python's analytical capabilities and high-performance backend systems.
 
-My portfolio includes published research on **chaotic cryptography** and the development of full-scale **internal knowledge management platforms**.
+My portfolio includes published research on **chaotic cryptography** and open-source libraries enabling **next-gen hardware optimization** for .NET.
 
 ---
 
@@ -12,15 +12,15 @@ My portfolio includes published research on **chaotic cryptography** and the dev
 
 **Languages & Core:**
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/core/)
+[![.NET 10 LTS](https://img.shields.io/badge/.NET%2010%20(LTS)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python 3.11+](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/t-sql/)
 
-**Libraries & Architectures:**
+**High-Performance & Architecture:**
+[![SIMD](https://img.shields.io/badge/Hardware_Intrinsics-AVX2_%2F_AVX--512-blueviolet?style=for-the-badge&logo=intel&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/api/system.runtime.intrinsics.x86?view=net-8.0)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
-[![PySide6](https://img.shields.io/badge/PySide6-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython-6/)
 [![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
-[![Architecture](https://img.shields.io/badge/Architecture-RBAC%20%7C%20Repository-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/architecture/)
+[![Architecture](https://img.shields.io/badge/Architecture-Clean%20%7C%20Repository-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/architecture/)
 
 ---
 
@@ -37,10 +37,10 @@ My portfolio includes published research on **chaotic cryptography** and the dev
 
 | Project | Description | Key Techniques |
 | :--- | :--- | :--- |
+| **[ChaoticEngine](https://github.com/umitkrkmz/ChaoticEngine)** | **Flagship Library.** High-performance chaos theory engine for .NET 10. Auto-detects CPU flags to switch between **AVX-512**, **AVX2**, or Scalar modes. (~12x Faster than Math.Sin) | `.NET 10 LTS`, `SIMD Intrinsics`, `Vector512`, `BenchmarkDotNet` |
 | **[CorporateKnowledgeBase](https://github.com/umitkrkmz/CorporateKnowledgeBase)** | Scalable corporate backend for digital memory. Features Role-Based Access Control (RBAC) and In-Memory Caching to optimize server load. | `.NET 9.0`, `MVC`, `Clean Architecture` |
 | **[Chaotic Audio Steganography](https://github.com/umitkrkmz/Chaotic_Audio_Steganography)** | Hybrid security framework utilizing 7 chaotic maps. Optimized encryption performance (<1s) using **NumPy Vectorization**. | `Python`, `Cryptography`, `Matrix Ops` |
 | **[StegoTester](https://github.com/umitkrkmz/StegoTester)** | Comprehensive benchmarking tool supporting 12+ formats. Uses **QThread** for async batch processing (<50ms UI latency). | `PySide6`, `Multithreading`, `Data Analysis` |
-| **[ui2py-pyside6](https://github.com/umitkrkmz/ui2py-pyside6)** | A developer utility to batch convert Qt Designer `.ui` files to Python code efficiently. | `Python`, `DevTools`, `Automation` |
 
 ---
 
