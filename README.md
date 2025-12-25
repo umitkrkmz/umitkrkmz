@@ -27,7 +27,7 @@ My portfolio includes published research on **chaotic cryptography** and open-so
 ### 📚 Academic & Research Publications
 
 > **Secure Audio Steganography Using Vectorized LSB and Chaos-Based Encryption**
-> *Journal of Electrical Engineering and Energy (JELENE), 2025*
+> *Electrical Engineering and Energy, 4(3), 68-86, 2025*
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.64470%2Felene.2025.12-blue)](https://doi.org/10.64470/elene.2025.12)
 
@@ -38,16 +38,16 @@ My portfolio includes published research on **chaotic cryptography** and open-so
 | Project | Description | Key Techniques |
 | :--- | :--- | :--- |
 | **[ChaoticEngine](https://github.com/umitkrkmz/ChaoticEngine)** | **Flagship Library.** High-performance chaos theory engine for .NET 10. Auto-detects CPU flags to switch between **AVX-512**, **AVX2**, or Scalar modes. (~12x Faster than Math.Sin) | `.NET 10 LTS`, `SIMD Intrinsics`, `Vector512`, `BenchmarkDotNet` |
-| **[CorporateKnowledgeBase](https://github.com/umitkrkmz/CorporateKnowledgeBase)** | Scalable corporate backend for digital memory. Features Role-Based Access Control (RBAC) and In-Memory Caching to optimize server load. | `.NET 9.0`, `MVC`, `Clean Architecture` |
+| **[CorporateKnowledgeBase](https://github.com/umitkrkmz/CorporateKnowledgeBase)** | **Enterprise v2.0.** Corporate memory platform overhauled with **PDF Export Engine** and Social Interaction System. Features Audit Logging and Dual Experience Design. | `.NET 9.0`, `PuppeteerSharp`, `Clean Architecture` |
+| **[StegoTester](https://github.com/umitkrkmz/StegoTester)** | **v3.1 Hybrid AI Engine.** Forensic tool using "Gatekeeper" (Audio LSB) & "Detective" (Random Forest) models. Supports 12+ formats with PDF reporting. | `PySide6`, `Machine Learning`, `Hybrid Analysis` |
 | **[Chaotic Audio Steganography](https://github.com/umitkrkmz/Chaotic_Audio_Steganography)** | Hybrid security framework utilizing 7 chaotic maps. Optimized encryption performance (<1s) using **NumPy Vectorization**. | `Python`, `Cryptography`, `Matrix Ops` |
-| **[StegoTester](https://github.com/umitkrkmz/StegoTester)** | Comprehensive benchmarking tool supporting 12+ formats. Uses **QThread** for async batch processing (<50ms UI latency). | `PySide6`, `Multithreading`, `Data Analysis` |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umitkrkmz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=umitkrkmz&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitkrkmz&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
