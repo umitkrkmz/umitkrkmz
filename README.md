@@ -47,8 +47,8 @@ My portfolio includes published research on **chaotic cryptography** and open-so
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umitkrkmz&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitkrkmz&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umitkrkmz&show_icons=true&theme=radical&hide_border=true&v=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitkrkmz&layout=compact&theme=radical&hide_border=true&v=1" height="150" alt="languages graph" />
 </div>
 
 ---
