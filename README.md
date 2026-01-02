@@ -37,7 +37,7 @@ I bridge the gap between Python's analytical capabilities and high-performance b
 
 | Project | Description | Key Techniques |
 | :--- | :--- | :--- |
-| **[ChaoticEngine](https://github.com/umitkrkmz/ChaoticEngine)** | **Flagship Library.** High-performance chaos theory engine for .NET 10. Auto-detects CPU flags to switch between **AVX-512**, **AVX2**, or Scalar modes. (~12x Faster than Math.Sin) | `.NET 10 LTS`, `SIMD Intrinsics`, `Vector512` |
+| **[ChaoticEngine](https://github.com/umitkrkmz/ChaoticEngine)** | **Flagship Library.** High-performance, **zero-allocation** chaos engine for .NET 10. Auto-detects CPU flags (**AVX-512**, **AVX2**) to achieve ~12x speedup over standard math libraries. | `.NET 10 LTS`, `SIMD Intrinsics`, `Vector512`, `BenchmarkDotNet` |
 | **[CorporateKnowledgeBase](https://github.com/umitkrkmz/CorporateKnowledgeBase)** | **v3.0 AI Revolution.** Enterprise platform evolved into a **Local RAG System** using **Phi-3** & **Ollama**. Features hybrid vector search, asynchronous architecture (**Hangfire**), and real-time collaboration (**SignalR**). | `.NET 9`, `Local RAG (Phi-3)`, `Vector Search`, `Hangfire`, `SignalR` |
 | **[StegoTester](https://github.com/umitkrkmz/StegoTester)** | **v3.1 Hybrid AI Engine.** Forensic tool using "Gatekeeper" (Audio LSB) & "Detective" (Random Forest) models. Supports 12+ formats with PDF reporting. | `PySide6`, `Machine Learning`, `Hybrid Analysis` |
 | **[Chaotic Audio Steganography](https://github.com/umitkrkmz/Chaotic_Audio_Steganography)** | Hybrid security framework utilizing 7 chaotic maps. Optimized encryption performance (<1s) using **NumPy Vectorization**. | `Python`, `Cryptography`, `Matrix Ops` |
