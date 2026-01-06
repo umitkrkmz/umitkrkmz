@@ -27,9 +27,11 @@ I bridge the gap between Python's analytical capabilities and high-performance b
 ### 📚 Academic & Research Publications
 
 > **Secure Audio Steganography Using Vectorized LSB and Chaos-Based Encryption**
-> *Electrical Engineering and Energy, 4(3), 68-86, 2025*
+>
+> Korkmaz, Z. Ümit, Horasan, F., & Çetinkaya, Z. (2025). Secure Audio Steganography Using Vectorized LSB and Chaos-Based Encryption. *Electrical Engineering and Energy*, 4(3), 68-86.
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.64470%2Felene.2025.12-blue)](https://doi.org/10.64470/elene.2025.12)
+
 
 ---
 
@@ -37,10 +39,11 @@ I bridge the gap between Python's analytical capabilities and high-performance b
 
 | Project | Description | Key Techniques |
 | :--- | :--- | :--- |
-| **[ChaoticEngine](https://github.com/umitkrkmz/ChaoticEngine)** | **Flagship Library.** High-performance, **zero-allocation** chaos engine for .NET 10. Auto-detects CPU flags (**AVX-512**, **AVX2**) to achieve ~12x speedup over standard math libraries. | `.NET 10 LTS`, `SIMD Intrinsics`, `Vector512`, `BenchmarkDotNet` |
-| **[CorporateKnowledgeBase](https://github.com/umitkrkmz/CorporateKnowledgeBase)** | **v3.0 AI Revolution.** Enterprise platform evolved into a **Local RAG System** using **Phi-3** & **Ollama**. Features hybrid vector search, asynchronous architecture (**Hangfire**), and real-time collaboration (**SignalR**). | `.NET 9`, `Local RAG (Phi-3)`, `Vector Search`, `Hangfire`, `SignalR` |
-| **[StegoTester](https://github.com/umitkrkmz/StegoTester)** | **v3.1 Hybrid AI Engine.** Forensic tool using "Gatekeeper" (Audio LSB) & "Detective" (Random Forest) models. Supports 12+ formats with PDF reporting. | `PySide6`, `Machine Learning`, `Hybrid Analysis` |
-| **[Chaotic Audio Steganography](https://github.com/umitkrkmz/Chaotic_Audio_Steganography)** | Hybrid security framework utilizing 7 chaotic maps. Optimized encryption performance (<1s) using **NumPy Vectorization**. | `Python`, `Cryptography`, `Matrix Ops` |
+| **[Aether](https://github.com/umitkrkmz/Aether)** | **Flagship Protocol.** High-performance P2P Grid powered by **ChaoticEngine**. Features **ECDH Key Exchange**, **Zero-Allocation** networking (System.IO.Pipelines), and **AVX-512** accelerated chaos encryption. | `.NET 10`, `ECDH`, `AVX-512`, `Zero-Copy` |
+| **[ChaoticEngine](https://github.com/umitkrkmz/ChaoticEngine)** | **Core Math Library.** High-performance chaos engine for .NET. Auto-detects CPU flags (**AVX-512**, **AVX2**) to achieve ~12x speedup over standard math libraries. Powers the **Aether** protocol. | `SIMD Intrinsics`, `Vector512`, `BenchmarkDotNet` |
+| **[CorporateKnowledgeBase](https://github.com/umitkrkmz/CorporateKnowledgeBase)** | **v3.0 AI Revolution.** Enterprise platform evolved into a **Local RAG System** using **Phi-3** & **Ollama**. Features hybrid vector search and asynchronous architecture. | `.NET 9`, `Local RAG`, `Vector Search`, `SignalR` |
+| **[Chaotic Audio Steganography](https://github.com/umitkrkmz/Chaotic_Audio_Steganography)** | **Research Implementation.** Official source code of the published paper. Hybrid security framework utilizing 7 chaotic maps optimized with **NumPy Vectorization**. | `Python`, `Research Paper`, `Cryptography`, `Matrix Ops` |
+| **[StegoTester](https://github.com/umitkrkmz/StegoTester)** | **v3.1 Hybrid AI Engine.** Forensic tool using "Gatekeeper" (Audio LSB) & "Detective" (Random Forest) models to detect steganography. Supports 12+ formats with PDF reporting. | `PySide6`, `Machine Learning`, `Hybrid Analysis` |
 
 ---
 
