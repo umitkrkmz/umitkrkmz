@@ -49,6 +49,14 @@ I bridge the gap between Python's analytical capabilities and high-performance b
 
 <div align="center">
 
+### 💖 Support My Work
+
+If my projects helped you, consider supporting me!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/umitkrkmz)
+
+---
+
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-Zeynel%20Ümit%20Korkmaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zeynel-umit-korkmaz/)
